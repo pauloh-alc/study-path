@@ -21,7 +21,7 @@ Vou ter que:
 
 ## 1. Cibersegurança
 - 8 Materiais
-- [x] Cisco Academy - Introduction to Cybersecurity:  
+- [x] Cisco Academy - Introduction to Cybersecurity: https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity  
 - [ ] FIAP - Cybersecurity: https://on.fiap.com.br/local/programaeucapacito/
 - [ ] Cisco Academy - Cybersecurity Essentials: https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials
 - [ ] Coursera IBM - Certificado Profissional Analista de Cibersegurança da IBM: https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst
