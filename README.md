@@ -32,7 +32,7 @@ Vou ter que:
 
 ## 2. Linux
 - 5 Materiais
-- [ ] Cisco Academy - NDG Linux Unhatched: https://www.netacad.com/courses/os-it/ndg-linux-unhatched
+- [x] Cisco Academy - NDG Linux Unhatched: https://www.netacad.com/courses/os-it/ndg-linux-unhatched
 - [ ] FIAP - Linux Fundamentos: https://on.fiap.com.br/local/programaeucapacito/
 - [ ] Tech With Tim - Linux for programers: https://youtube.com/playlist?list=PLzMcBGfZo4-nUIIMsz040W_X-03QH5c5h
 - [ ] Bóson Treinamentos - Shell Scripting: https://youtube.com/playlist?list=PLucm8g_ezqNrYgjXC8_CgbvHbvI7dDfhs
