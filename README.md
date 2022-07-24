@@ -62,7 +62,7 @@ Vou ter que:
 
 ## 6. Git e Github:
 - 1 Material
-- [ ] Coursera Google - Introduction to Git and GitHub
+- [ ] Coursera Google - Introduction to Git and GitHub: https://www.coursera.org/learn/introduction-git-github?specialization=google-it-automation
 
 ## 7. SQL
 - 1 Material
