@@ -35,7 +35,7 @@ Vou ter que:
 - [x] Cisco Academy - NDG Linux Unhatched: https://www.netacad.com/courses/os-it/ndg-linux-unhatched
 - [x] FIAP - Linux Fundamentos: https://on.fiap.com.br/local/programaeucapacito/
 - [ ] Tech With Tim - Linux for programers: https://youtube.com/playlist?list=PLzMcBGfZo4-nUIIMsz040W_X-03QH5c5h
-- [ ] Bóson Treinamentos - Shell Scripting: Do Básico ao Profissional - Mateus Muller: Disponível na Udemy
+- [ ] Mateus Muller - Shell Scripting: Do Básico ao Profissional - Mateus Muller: Disponível na Udemy
 - [ ] Livro - Descobrindo o Linux: autor João Eriberto Mota Filho
 
 ## 3. Redes
