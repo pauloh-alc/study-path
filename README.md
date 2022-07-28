@@ -26,16 +26,16 @@ Vou ter que:
 - [ ] Cisco Academy - Cybersecurity Essentials: https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials
 - [ ] Coursera IBM - Certificado Profissional Analista de Cibersegurança da IBM: https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst
 - [ ] NetworkChuck - Linux for Hackers: https://youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL
-- [ ] DESEC - Introducao Pentest: https://desecsecurity.com/curso/introducao-pentest
+- [ ] DESEC - Introdução ao Pentest: https://desecsecurity.com/curso/introducao-pentest
 - [ ] Livro - Introdução ao Pentest: https://pt.br1lib.org/book/3610222/8b15b3
 - [ ] Dio - Conheça tudo sobre a LGPD – Elementos fundamentais: https://www.dio.me/
 
 ## 2. Linux
 - 5 Materiais
 - [x] Cisco Academy - NDG Linux Unhatched: https://www.netacad.com/courses/os-it/ndg-linux-unhatched
-- [ ] FIAP - Linux Fundamentos: https://on.fiap.com.br/local/programaeucapacito/
+- [x] FIAP - Linux Fundamentos: https://on.fiap.com.br/local/programaeucapacito/
 - [ ] Tech With Tim - Linux for programers: https://youtube.com/playlist?list=PLzMcBGfZo4-nUIIMsz040W_X-03QH5c5h
-- [ ] Bóson Treinamentos - Shell Scripting: https://youtube.com/playlist?list=PLucm8g_ezqNrYgjXC8_CgbvHbvI7dDfhs
+- [ ] Bóson Treinamentos - Shell Scripting: Do Básico ao Profissional - Mateus Muller: Disponível na Udemy
 - [ ] Livro - Descobrindo o Linux: autor João Eriberto Mota Filho
 
 ## 3. Redes
