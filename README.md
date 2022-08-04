@@ -37,11 +37,17 @@ Vou ter que:
 - [ ] Tech With Tim - Linux for programers: https://youtube.com/playlist?list=PLzMcBGfZo4-nUIIMsz040W_X-03QH5c5h
 - [ ] Mateus Muller - Shell Scripting: Do Básico ao Profissional - Mateus Muller: Disponível na Udemy
 - [ ] Livro - Descobrindo o Linux: autor João Eriberto Mota Filho
+- [ ] Mateus Muller - LPI Linux Essentials: Preparatório para a Certificação - Mateus Muller: Disponível na Udemy
+- [ ] Luciano Siqueira - Curso Linux Essentials: https://lcnsqr.com/curso-linux-essentials
 
 ## 3. Redes
 - 8 Materiais
 - [ ] Cisco Academy - Networking Essentials: https://www.netacad.com/courses/networking/networking-essentials
-- [ ] Coursera Google - Estrutura e Funcionamento das Redes de Computadores: https://www.coursera.org/learn/redes-computadores?specialization=suporte-em-ti-do-google
+- [x] Coursera Google - Technical Support Fundamentals: https://www.coursera.org/professional-certificates/suporte-em-ti-do-google
+- [ ] Coursera Google - The Bits and Byts of Computer Networking: https://www.coursera.org/professional-certificates/suporte-em-ti-do-google
+- [ ] Coursera Google - Operating System and You: Become a Power User: https://www.coursera.org/professional-certificates/suporte-em-ti-do-google
+- [ ] Coursera Google - System Administration and IT Infrastructure Service: https://www.coursera.org/professional-certificates/suporte-em-ti-do-google
+- [ ] Coursera Google - IT Security: Defense against the digital dark arts: https://www.coursera.org/professional-certificates/suporte-em-ti-do-google
 - [ ] Netacad - CCNAv7 Introdução às Redes (pelo Nic.Br): https://cursoseventos.nic.br/curso/curso-ccna-intro-cisco-nicbr/
 - [ ] Nic.Br - Curso Básico IPv6: https://cursoseventos.nic.br/curso/curso-basico-ipv6-ead/
 - [ ] Coursera Google - Suporte em TI: https://www.coursera.org/professional-certificates/suporte-em-ti-do-google?skipBrowseRedirect=true
