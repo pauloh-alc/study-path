@@ -38,7 +38,8 @@ Vou ter que:
 - [x] Mateus Muller - Shell Scripting: Do Básico ao Profissional - Mateus Muller: Disponível na Udemy
 - [ ] Livro - Descobrindo o Linux: autor João Eriberto Mota Filho
 - [ ] Mateus Muller - LPI Linux Essentials: Preparatório para a Certificação - Mateus Muller: Disponível na Udemy
-- [ ] Luciano Siqueira - Curso Linux Essentials: https://lcnsqr.com/curso-linux-essentials
+- [x] Luciano Siqueira - Curso Linux Essentials: https://lcnsqr.com/curso-linux-essentials
+- [ ] LPI: Realizar leitura do LPI-Learning-Material-010-160-pt 
 
 ## 3. Redes
 - 8 Materiais
