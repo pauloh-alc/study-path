@@ -34,12 +34,15 @@ Vou ter que:
 - 5 Materiais
 - [x] Cisco Academy - NDG Linux Unhatched: https://www.netacad.com/courses/os-it/ndg-linux-unhatched
 - [x] FIAP - Linux Fundamentos: https://on.fiap.com.br/local/programaeucapacito/
-- [ ] Tech With Tim - Linux for programers: https://youtube.com/playlist?list=PLzMcBGfZo4-nUIIMsz040W_X-03QH5c5h
+- [x] Tech With Tim - Linux for programers: https://youtube.com/playlist?list=PLzMcBGfZo4-nUIIMsz040W_X-03QH5c5h
 - [x] Mateus Muller - Shell Scripting: Do Básico ao Profissional - Mateus Muller: Disponível na Udemy
 - [ ] Livro - Descobrindo o Linux: autor João Eriberto Mota Filho
-- [ ] Mateus Muller - LPI Linux Essentials: Preparatório para a Certificação - Mateus Muller: Disponível na Udemy
+- [x] Mateus Muller - LPI Linux Essentials: Preparatório para a Certificação - Mateus Muller: Disponível na Udemy
 - [x] Luciano Siqueira - Curso Linux Essentials: https://lcnsqr.com/curso-linux-essentials
 - [ ] LPI: Realizar leitura do LPI-Learning-Material-010-160-pt 
+- [x] Linux Fundamentals - 4Linux: https://4linux.com.br/cursos/cursos-gratuitos/
+- [x] Linux Essentials - 4Linux: https://4linux.com.br/cursos/cursos-gratuitos/
+- [x] Hands-on Introduction to Linux Commands and Shell Scripting: https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting
 
 ## 3. Redes
 - 8 Materiais
@@ -69,7 +72,7 @@ Vou ter que:
 
 ## 6. Git e Github:
 - 1 Material
-- [ ] Coursera Google - Introduction to Git and GitHub: https://www.coursera.org/learn/introduction-git-github?specialization=google-it-automation
+- [x] Coursera Google - Introduction to Git and GitHub: https://www.coursera.org/learn/introduction-git-github?specialization=google-it-automation
 
 ## 7. SQL
 - 1 Material
